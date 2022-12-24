@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+}
+
+input {
+    padding: 15px 10px;
+}
+
+.pickup, .destination {
+    display: block;
+    margin-bottom: 10px;
+    background-color: rgb(228, 228, 228);
+    border: none;
+    border-radius: 5px;
+    width: 350px;
+}
+
+.destination {
+    margin-bottom: 30px;
+}
+
+.request-btn {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.schedule-later-btn {
+    background-color: rgb(228, 228, 228);
+    padding: 11px 15px;
+    margin-left: 20px;
+    border: none;
+    cursor: pointer;
+}

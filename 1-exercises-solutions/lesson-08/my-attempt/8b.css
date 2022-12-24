@@ -1,0 +1,10 @@
+p, button {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p {
+    width: 200px;
+}

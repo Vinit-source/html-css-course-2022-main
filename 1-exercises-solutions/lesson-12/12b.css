@@ -1,0 +1,27 @@
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: space-around;
+  height: 300px;
+}
+
+.lightblue {
+  background-color: lightblue;
+}
+
+.lightpink {
+  background-color: lightpink;
+}
+
+.item1 {
+  width: 100px;
+}
+
+.item2 {
+  width: 600px;
+}
+
+.item3 {
+  width: 200px;
+}

@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.sidebar {
+    width: 350px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 10px;
+    padding-bottom: 0px;
+    /* box-shadow: 3px 3px 5px rgba(0,0,0,0.15); */
+}
+
+.sidebar-item {
+    display: flex;
+    /* width: 400px; */
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.notifs {
+    background-color: rgb(47, 81, 247);
+    color: white;
+    border-radius: 13px;
+    padding: 2px 10px;
+}

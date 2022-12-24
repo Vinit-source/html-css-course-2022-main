@@ -1,0 +1,11 @@
+.flexbox {
+    display: flex;
+    justify-content: space-between;
+    /* width: 100vw; */
+}
+
+.item {
+    background-color: lightpink;
+    /* display: inline; */
+    /* width: fit-content; */
+}

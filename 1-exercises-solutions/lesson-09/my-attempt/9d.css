@@ -1,0 +1,20 @@
+.container {
+    background-color: rgb(32, 32, 32);
+    color: white;
+    padding: 15px;
+    font-family: Arial;
+    width: 380px;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+
+.description {
+    color:rgb(149, 149, 149);
+    margin-top: 0px;
+    margin-bottom: 0px;
+}

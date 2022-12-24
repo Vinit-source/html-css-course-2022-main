@@ -1,0 +1,33 @@
+.right-sidebar {
+    background-color: rgb(85, 165, 85);
+    color: white;
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    width: 100px;
+}
+
+.fade {
+    position: fixed;
+    background-color: rgba(0,0,0,0.6);
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal {
+    background-color: white;
+    border-radius: 5px;
+    width: 400px;
+    padding: 20px;
+}
+
+h2 {
+    margin: 0px;
+
+}
